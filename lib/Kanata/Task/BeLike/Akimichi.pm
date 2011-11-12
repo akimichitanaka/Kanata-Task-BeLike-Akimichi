@@ -16,7 +16,7 @@ Kanata::Task::BeLike::Akimichi -
 
 =head1 DESCRIPTION
 
-Kanata::Task::BeLike::Akimichi is
+Kanata::Task::BeLike::Akimichi is based on Task::BeLike::Tokuhirom
 
 =head1 AUTHOR
 
